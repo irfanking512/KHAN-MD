@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "IK~cL11XbLS#jvh6xQeR-fayRwNHbTbP-LxFNzOW4340KqGRUQBYUPU",
 // add your Session Id 
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
@@ -31,7 +31,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/7zfdcq.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "KHAN-MD",
+BOT_NAME: process.env.BOT_NAME || "IRFAN-WAHGA",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "KHAN-MD",
 // type sticker pack name 
@@ -43,9 +43,9 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923261761538",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
+OWNER_NAME: process.env.OWNER_NAME || "IRFAN WAHGA",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ IRFAN WAHGA*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
 // add img for alive msg
